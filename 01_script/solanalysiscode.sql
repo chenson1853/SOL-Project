@@ -68,4 +68,5 @@ SELECT
   school_year,
   district_pass_rate,
   (district_pass_rate - prev_rate) AS district_yoy_change
+
 FROM w;
