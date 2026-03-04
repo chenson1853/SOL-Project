@@ -8,7 +8,7 @@ Math SOL pass rates dropped sharply in 2020-2021 compared to 2018-2019. The medi
 However, the following year saw a substantial recovery, with the median district’s pass rate increasing by approximately 14.9 percentage points. The decline and rebound were not uniform across the state, as year-over-year changes showed much greater dispersion in those years than in subsequent years. 
 In addition, analysis of school-level trends reveals large variation within districts. Even in the most recent year available, the difference between the highest- and lowest-performing schools within some districts exceeds 60 percentage points, underscoring the importance of examining within-district performance alongside district-level aggregates. 
 # Example Visualization
-![Year-Over-Year Increase Distribution: 2020-2021 to 2021-2022](02_output/SOLincrease.png)
+![Year-Over-Year Increase Distribution: 2020-2021 to 2021-2022](02_output/SOL_increase.png)
 # Limitations
 •	No student-level weighting due to lack of available counts.  
 •	No subgroup or grade-level disaggregation.  
